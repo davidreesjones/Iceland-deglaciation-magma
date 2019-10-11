@@ -1,6 +1,9 @@
 close all
 clear
-fig_dir='../figures/';
+if ~exist('./figures/','dir')
+    mkdir './figures/';
+end
+fig_dir='./figures/';
 addpath('src','utilities/')
 figure_init
 
