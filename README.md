@@ -44,7 +44,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## REFERENCE: 
-This software reproduces the calculations and figures in an accompanying paper. Please cite the accompanying paper in any publications based on this software.
+This software reproduces the calculations and figures in an accompanying paper. Please cite the accompanying paper in any publications based on this software. A preprint is available on [arXiv](https://arxiv.org/abs/1910.08318).
 
 ## CODE SUMMARY: 
 * All functions needed to compute and plot the results are provided in `src/`
