@@ -44,7 +44,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## REFERENCE: 
-This software reproduces the calculations and figures in an accompanying paper. Please cite the accompanying paper in any publications based on this software. A preprint is available on [arXiv](https://arxiv.org/abs/1910.08318).
+D. W. Rees Jones and J. F. Rudge, 2020. Fast magma ascent, revised estimates from the deglaciation of Iceland. 
+*Earth Planet. Sci. Lett.*, **542**, 116324, [https://doi.org/10.1016/j.epsl.2020.116324](https://doi.org/10.1016/j.epsl.2020.116324).
+
+This software reproduces the calculations and figures in the above accompanying paper. Please cite the accompanying paper in any publications based on this software. 
 
 ## CODE SUMMARY: 
 * All functions needed to compute and plot the results are provided in `src/`
